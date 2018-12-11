@@ -1,4 +1,4 @@
-##### thunder-superquick-version-tool-dl
+##### 迅雷极速版
 
 ---
 
